@@ -1,6 +1,6 @@
 # macOS german keyboard layout with yz keys switched
 
-Are you annoyed that german keyboard layout makes using the standard <kbd>command</kbd> + <kbd>z</kbd> for `Undo` rather cumbersome? Here is a layout which can be used the switch the keys <kbd>y</kbd> and <kbd>z</kbd> around. This makes using the `Undo` shortcut so much more ergonomic on german keyboards.
+Are you annoyed that german keyboard layout makes using the standard <kbd>command</kbd> + <kbd>z</kbd> for `Undo` rather cumbersome? Here is a layout which can be used the switch the keys <kbd>y</kbd> and <kbd>z</kbd> around. This makes using the `Undo` shortcut so much more ergonomic.
 
 ## How to use
 
